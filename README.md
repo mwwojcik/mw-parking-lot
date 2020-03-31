@@ -1,6 +1,6 @@
 
 ## Intro
-<div>
+<div style="float:left;">
 <img src="img/parking-lot-small.png"> 
 </div>
  This is a project of computer system supporting a large scale parking lot.
