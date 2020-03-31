@@ -1,7 +1,12 @@
 
+img[src~="floating"] {
+   float:left;
+}
+
 ## Intro
-<img src="img/parking-lot-small.png" style="float:left"> 
 This is a project of computer system supporting a large scale parking lot.
+![](img/parking-lot-small.png?floating) 
+
 
 ###General assumptions (interpretation)
 
