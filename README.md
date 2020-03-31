@@ -1,9 +1,11 @@
 
 ## Table of contents
-- [Design of Computer System supporting large area Parking Lot](#design-of-computer-system-supporting-large-area-parking-lot)
-  - [Table of contents](#table-of-contents)
-  - [Intro](#intro)
-  - [Domain description](#domain-description)
+- [Table of contents](#table-of-contents)
+- [Intro](#intro)
+- [Domain description](#domain-description)
+- [Domain exploration](#domain-exploration)
+  - [Big Picture Event Storming](#big-picture-event-storming)
+
 ## Intro
 This is a design of computer system supporting large scale parking lot. It was implemented for educational purposes using techniques derived from the domain of DDD.
 
@@ -42,6 +44,10 @@ The system should support a per-hour parking fee model.
 For example, customers have to pay $4 for the first hour, $3.5 for the second and third hours, and $2.5 for all the remaining hours.
 
 ## Domain exploration
-### Big Picture Event Storming  
+### Big Picture Event Storming
+#### Legend
+![Interoducing EventStorming-Alberto Brandolini](img/process-modeling-events.png)
 
-![](img/process-modeling-events.png)
+#### First domain exploration - unordered events
+
+![](img/parking-lot-big-picture-events.jpg)
