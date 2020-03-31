@@ -1,9 +1,8 @@
 
 ## Intro
-<div style="float:left;">
-<img src="img/parking-lot-small.png"> 
-</div>
- This is a project of computer system supporting a large scale parking lot.
+<img src="img/parking-lot-small.png" style="float:left"> 
+This is a project of computer system supporting a large scale parking lot.
+
 ###General assumptions (interpretation)
 
 We will focus on the following set of requirements while designing the parking lot:
