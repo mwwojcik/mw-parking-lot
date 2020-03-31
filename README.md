@@ -1,14 +1,29 @@
+# Design of Computer System supporting large area Parking Lot 
 
-
+## Table of contents
+- [Design of Computer System supporting large area Parking Lot](#design-of-computer-system-supporting-large-area-parking-lot)
+  - [Table of contents](#table-of-contents)
+  - [Intro](#intro)
+  - [Domain description](#domain-description)
 ## Intro
-This is a project of computer system supporting a large scale parking lot.
-<div style="float:left">
-    ![](img/parking-lot-small.png?floating)
-</div> 
+This is a design of computer system supporting large scale parking lot. It was implemented for educational purposes using techniques derived from the domain of DDD.
+
+![](img/parking-lot-small.png)
+
+Imagine that you, and your team was asked for designing comprehensive computer system for parking lots.
+This project was commissioned by the company "Mambo Car", which has invested heavily in developing an IT system.
+This company manages a network of dynamically growing car parks . Existing systems are not very competitive and should 
+be replaced by more modern ones.
 
 
-###General assumptions (interpretation)
+Enjoy!
 
+## Domain description
+
+ 
+ 
+
+## System requirements
 We will focus on the following set of requirements while designing the parking lot:
 
     The parking lot should have multiple floors where customers can park their cars.
