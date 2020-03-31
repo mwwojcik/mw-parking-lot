@@ -1,0 +1,8 @@
+- [Overviewin hexagonal architecture](#overviewin-hexagonal-architecture)
+- [[Domain Description](https://github.com/ddd-by-examples/library#domain-description)](#domain-descriptionhttpsgithubcomddd-by-exampleslibrarydomain-description)
+  - [General assumptions (interpretation)](#general-assumptions-interpretation)
+- [Modules](#modules)
+- [Aggregates](#aggregates)
+- [Implementation](#implementation)
+  - [Hold on book process](#hold-on-book-process)
+    - [](#)
