@@ -72,6 +72,8 @@ When the system ‘approves’ a credential, a signal can be sent automatically 
 The software tracks all access and exit data, and gives full visibility 
 into the movements of authorized users into and out of the parking lot.
 
+The computer system should integrate with the business intelligence software used in the Businness Inteligence Department.
+It is a third-party IT software  allowing to create advanced reports and summaries. 
 
 ## Domain exploration
 ### Big Picture Event Storming
