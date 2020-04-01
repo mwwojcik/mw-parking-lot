@@ -28,14 +28,22 @@ the exit gate. The amount due may be paid in three ways:
     * at the automated cash register (during leaving out)
     * at the customer’s info portal mounted on each parkig level (in this case, he doesn’t have to pay at the exit)
     * directly to the parking lot employee (then leaving out is free)
-
- Parking payment system should handle both cash and credit card payments.
  
- System should control the number of cars entering the parking lot. When the last parking space is occupied, system
- should be able to show a message at the paarking display board on the level 0, and close all entrance gates.
+ Parking payment system should handle both cash and credit card payments.
+
+After paying, the driver no longer has to use the ticket. At the exit gate, the system  should automatically recognize that 
+the invoice for this car had been paid and the gate should be opened.
 
 The car park has various types of places: compact, large, handicapped for different types of vehicles: car, truck, van, motorcycle. 
-The system should should be able to charge different fees for each of them, and showing any free parking spot for each spot type.
+System should control the number of cars entering the parking lot (per their type). When the last  parking space for given type vehicle is occupied, 
+system should be able to show a message at the parking display board on the level 0, and close all entrance gates for this type of vehicle.
+
+The space is allocated automatically, before the vehicle enters the parking lot. The dimensions of the vehicle are assessed on the basis of the camera image 
+and based on them the system selects the most appropriate place. Number of this place is displayed on the ticket.
+Apart of it, after entering the parking lot, the vehicle guidance system is activated. It tracks the movement of the 
+vehicle and displays light signals (arrows) in front of the vehicle, based on which the driver chooses the road.                                                                    
+
+
  
 Panel lot has a spots dedicated for electric cars. It offers charging service. System should be able to register start 
 and stop of charging, and calculate the amount due.
