@@ -31,7 +31,7 @@ the exit gate. The amount due may be paid in three ways:
  
 Parking payment system should handle both cash and credit card payments.
 
-After paying, the driver no longer has to use the ticket. At the exit gate, the system  should automatically recognize that 
+After paying, customer doesn't have to use the ticket. At the exit gate, the system  should automatically recognize that 
 the invoice for this car has been paid and the gate should be opened.
 
 The car park has various types of places intended for different types of vehicles: car, truck, van, motorcycle. 
