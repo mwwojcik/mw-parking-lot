@@ -59,10 +59,19 @@ The registered user has a special privileges:
 
 Some customers may have VIP status. Application for VIP status is carried out by the system based on the client's activity.
 The application must be approved via one member of the management. The VIP customer gains access to special parking lot areas. 
-Each VIP customer may ask to prepare his own billing/reservations plan. This request goes to the customer service department, 
+Each VIP customer may ask to prepare his own billing/reservations plan. This request goes to the Customer Service Department, 
 where it undergoes initial verification. After positive verification, an appropriate application is being prepared and it is 
-directed to strategic customer service office.  After accepting the terms, a contract is prepared. Customer receives a contract
+directed to Strategic Customer Service Office.  After accepting the terms, a contract is prepared. Customer receives a contract
 via Mobile Application. 
+
+The system should have an Access Control Module managed by a Security Department. 
+it allows to define different permissions for authorized users.
+The access control machines will be installed at selected points of the building.  
+When user requests access, he will be asked to enter access code.
+When the system ‘approves’ a credential, a signal can be sent automatically to open the access barrier. 
+The software tracks all access and exit data, and gives full visibility 
+into the movements of authorized users into and out of the parking lot.
+
 
 ## Domain exploration
 ### Big Picture Event Storming
