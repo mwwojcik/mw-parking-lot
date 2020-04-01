@@ -53,14 +53,16 @@ The system should support a per-hour parking fee model.
 Customers can register accounts via a website or a mobile application. One customer can set up only one account.
 The registered user has a special privileges:
 
-* can receive information about the parking lot (f.e: availability of parking spaces,special rates)
-* can use a special billing plan ( daily payments, one week one month payments )
-* has opportunity to researve parking spaces
+* can receive information about the parking lot (f.e: availability of parking slots ,special rates)
+* can use a special billing plan ( daily payments, one week, one month payments )
+* has opportunity to researve parking slots
 
 Some customers may have VIP status. Application for VIP status is carried out by the system based on the client's activity.
-The application must be approved via one member of the management. The VIP Customer gains access to special areas. 
-
-
+The application must be approved via one member of the management. The VIP customer gains access to special parking lot areas. 
+Each VIP customer may ask to prepare his own billing/reservations plan. This request goes to the customer service department, 
+where it undergoes initial verification. After positive verification, an appropriate application is being prepared and it is 
+directed to strategic customer service office.  After accepting the terms, a contract is prepared. Customer receives a contract
+via Mobile Application. 
 
 ## Domain exploration
 ### Big Picture Event Storming
