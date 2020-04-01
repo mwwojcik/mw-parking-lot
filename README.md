@@ -38,14 +38,15 @@ The car park has various types of places: compact, large, handicapped for differ
 System should control the number of cars entering the parking lot (per their type). When the last  parking space for given type vehicle is occupied, 
 system should be able to show a message at the parking display board on the level 0, and close all entrance gates for this type of vehicle.
 
-The space is allocated automatically, before the vehicle enters the parking lot. The dimensions of the vehicle are assessed on the basis of the camera image 
-and based on them the system selects the most appropriate place. Number of this place is displayed on the ticket.
-Apart of it, after entering the parking lot, the vehicle guidance system is activated. It tracks the movement of the 
-vehicle and displays light signals (arrows) in front of the vehicle, based on which the driver chooses the road.                                                                    
+The place is allocated automatically, before the vehicle enters the parking lot. 
+The dimensions of the vehicle are evaluated on the basis of the camera image. 
+System should recognize the vehicle type and select the most appropriate place. Number of this place is displayed on the ticket.
+Apart of it, after entering the parking lot, the vehicle guidance system is activated. It is simple Mobile Application which
+tracks the movement of the vehicle inside park lot and display signals to help you choose the right path.                                            
 
 
  
-Panel lot has a spots dedicated for electric cars. It offers charging service. System should be able to register start 
+Parking lot has a spots dedicated for electric cars. It offers charging service. System should be able to register start 
 and stop of charging, and calculate the amount due.
 
 The system should support a per-hour parking fee model. 
