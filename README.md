@@ -78,8 +78,9 @@ It is a third-party IT software  allowing to create advanced reports and summari
 
 ## Domain exploration
 ### Big Picture Event Storming
-#### Event Storming Symbols
-![Interoducing EventStorming-Alberto Brandolini](img/process-modeling-events.png) 
+#### Event Storming Grammar
+![Introducing EventStorming-Alberto Brandolini](img/process-modeling-events.png) 
+*This nice picture comes from [Introducing EventStorming-Alberto Brandolini](https://leanpub.com/introducing_eventstorming)*
 
 <img src="img/event-storming-symbols.jpg" height="50%" width="50%"/>
 
