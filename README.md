@@ -7,7 +7,8 @@
   - [Big Picture Event Storming](#big-picture-event-storming)
 
 ## Intro
-This is a design of computer system supporting large scale parking lot. It was implemented for educational purposes using techniques derived from the domain of DDD.
+This is a project of system for large scale parking lot. It has been  implemented 
+for educational purposes using techniques derived from the domain of DDD.
 
 ![](img/parking-lot-small.png)
 
