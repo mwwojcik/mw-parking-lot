@@ -79,10 +79,13 @@ It is a third-party IT software  allowing to create advanced reports and summari
 ## Domain exploration
 ### Big Picture Event Storming
 #### Event Storming Grammar
+##### The picture that explains everything
+This nice picture comes from [Introducing EventStorming-Alberto Brandolini](https://leanpub.com/introducing_eventstorming).
+
 ![Introducing EventStorming-Alberto Brandolini](img/process-modeling-events.png) 
 
-*This nice picture comes from [Introducing EventStorming-Alberto Brandolini](https://leanpub.com/introducing_eventstorming)*
 
+##### Sticky notes
 <img src="img/event-storming-symbols.jpg" height="50%" width="50%"/>
 
 #### First domain exploration - unordered events
