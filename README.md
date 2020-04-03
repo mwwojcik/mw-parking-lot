@@ -78,8 +78,10 @@ It is a third-party IT software  allowing to create advanced reports and summari
 
 ## Domain exploration
 ### Big Picture Event Storming
-#### Legend
-![Interoducing EventStorming-Alberto Brandolini](img/process-modeling-events.png)
+#### Event Storming Symbols
+![Interoducing EventStorming-Alberto Brandolini](img/process-modeling-events.png) 
+
+<img src="img/event-storming-symbols.jpg" height="50%" width="50%"/>
 
 #### First domain exploration - unordered events
 
