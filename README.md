@@ -86,7 +86,7 @@ This nice picture comes from [Introducing EventStorming-Alberto Brandolini](http
 
 
 ##### Sticky notes
-<img src="img/event-storming-symbols.jpg" height="50%" width="50%"/>
+![](img/event-storming-symbols.jpg) 
 
 #### First domain exploration - unordered events
 
