@@ -88,6 +88,6 @@ This nice picture comes from [Introducing EventStorming-Alberto Brandolini](http
 ##### Sticky notes
 ![](img/event-storming-symbols.png) 
 
-#### First domain exploration - unordered events
-
+#### First domain exploration 
+##### Step one - unordered events (under construction)
 ![](img/parking-lot-big-picture-events.jpg)
