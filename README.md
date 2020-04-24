@@ -75,19 +75,3 @@ into the movements of authorized users into and out of the parking lot.
 
 The computer system should integrate with the business intelligence software used in the Businness Inteligence Department.
 It is a third-party IT software  allowing to create advanced reports and summaries. 
-
-## Domain exploration
-### Big Picture Event Storming
-#### Event Storming Grammar
-##### The picture that explains everything
-This nice picture comes from [Introducing EventStorming-Alberto Brandolini](https://leanpub.com/introducing_eventstorming).
-
-![Introducing EventStorming-Alberto Brandolini](img/process-modeling-events.png) 
-
-
-##### Sticky notes
-![](img/event-storming-symbols.png) 
-
-#### First domain exploration 
-##### Step one - unordered events (under construction)
-![](img/parking-lot-big-picture-events.jpg)
