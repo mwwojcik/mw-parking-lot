@@ -3,12 +3,9 @@
 - [Table of contents](#table-of-contents)
 - [Intro](#intro)
 - [Domain description](#domain-description)
-- [Domain exploration](#domain-exploration)
-  - [Big Picture Event Storming](#big-picture-event-storming)
 
 ## Intro
-This is a project of system for large scale parking lot. It has been  implemented 
-for educational purposes using techniques derived from the domain of DDD.
+This is a project of system for large scale parking lot.
 
 ![](img/parking-lot-small.png)
 
